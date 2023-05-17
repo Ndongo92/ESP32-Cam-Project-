@@ -1,7 +1,6 @@
 Project Title: ESP32-CAM Take Photo and Save to MicroSD Card
 Introduction:
 This project focuses on utilizing the ESP32-CAM module to capture photos and store them onto a MicroSD card. It aims to provide a simple and efficient solution for implementing camera functionality in ESP32-based projects.
-
 Table of Contents:
 Features
 Requirements
